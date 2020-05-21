@@ -1,0 +1,13 @@
+C:\Users\Shadow\source\repos\GameProto\GameProto\bin\Debug\netcoreapp3.1\GameProto.exe
+C:\Users\Shadow\source\repos\GameProto\GameProto\bin\Debug\netcoreapp3.1\GameProto.deps.json
+C:\Users\Shadow\source\repos\GameProto\GameProto\bin\Debug\netcoreapp3.1\GameProto.runtimeconfig.json
+C:\Users\Shadow\source\repos\GameProto\GameProto\bin\Debug\netcoreapp3.1\GameProto.runtimeconfig.dev.json
+C:\Users\Shadow\source\repos\GameProto\GameProto\bin\Debug\netcoreapp3.1\GameProto.dll
+C:\Users\Shadow\source\repos\GameProto\GameProto\bin\Debug\netcoreapp3.1\GameProto.pdb
+C:\Users\Shadow\source\repos\GameProto\GameProto\obj\Debug\netcoreapp3.1\GameProto.csprojAssemblyReference.cache
+C:\Users\Shadow\source\repos\GameProto\GameProto\obj\Debug\netcoreapp3.1\GameProto.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\source\repos\GameProto\GameProto\obj\Debug\netcoreapp3.1\GameProto.AssemblyInfoInputs.cache
+C:\Users\Shadow\source\repos\GameProto\GameProto\obj\Debug\netcoreapp3.1\GameProto.AssemblyInfo.cs
+C:\Users\Shadow\source\repos\GameProto\GameProto\obj\Debug\netcoreapp3.1\GameProto.dll
+C:\Users\Shadow\source\repos\GameProto\GameProto\obj\Debug\netcoreapp3.1\GameProto.pdb
+C:\Users\Shadow\source\repos\GameProto\GameProto\obj\Debug\netcoreapp3.1\GameProto.genruntimeconfig.cache
