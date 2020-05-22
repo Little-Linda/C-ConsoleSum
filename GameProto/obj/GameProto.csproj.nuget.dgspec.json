@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shadow\\source\\repos\\GameProto\\GameProto\\GameProto.csproj": {}
+    "C:\\progect\\GameProto\\GameProto\\GameProto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shadow\\source\\repos\\GameProto\\GameProto\\GameProto.csproj": {
+    "C:\\progect\\GameProto\\GameProto\\GameProto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shadow\\source\\repos\\GameProto\\GameProto\\GameProto.csproj",
+        "projectUniqueName": "C:\\progect\\GameProto\\GameProto\\GameProto.csproj",
         "projectName": "GameProto",
-        "projectPath": "C:\\Users\\Shadow\\source\\repos\\GameProto\\GameProto\\GameProto.csproj",
+        "projectPath": "C:\\progect\\GameProto\\GameProto\\GameProto.csproj",
         "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shadow\\source\\repos\\GameProto\\GameProto\\obj\\",
+        "outputPath": "C:\\progect\\GameProto\\GameProto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
